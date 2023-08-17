@@ -12,4 +12,8 @@ Technologies I use 🔥
 - CSS and Bootstrap
 - Javascript (Vanilla and JQuery)
 - SQL (MySQL)
-- PHP (Laravel)
+- PHP (Laravel and Symphony)
+- Node.js
+- Angular.js
+- Vue.js and React.js
+- Python
