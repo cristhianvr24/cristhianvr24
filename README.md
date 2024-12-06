@@ -15,5 +15,7 @@ Technologies I use 🔥
 - PHP (Laravel and Symphony)
 - Node.js
 - Angular.js
-- Vue.js and React.js
+- Vue.js
+- React.js
 - Python
+- Docker
